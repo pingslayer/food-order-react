@@ -1,5 +1,4 @@
 //components
-import CartIcon from "../Cart/CartIcon";
 import Card from "../UI/Card";
 import MealItem from "./MealItem/MealItem";
 //css
